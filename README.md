@@ -1,13 +1,8 @@
 <h3>Ultra_X</h3>
 
-# FCLONE - FACEBOOK CLONING PREMIUM
+# fclone - facebook cloning tool
 
-<p
 <br>
-  <img src="https://img.shields.io/badge/Author-Ultra_X-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
-</p>
-
 ##
 
 ### Description
