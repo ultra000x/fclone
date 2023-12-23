@@ -1,4 +1,4 @@
-<h1><b>fclone - facebook cloning tool</h1>
+<h1><b>FACEBOOK TOOL</h1>
 
 <br>
 
@@ -25,14 +25,6 @@
 - The target you entered has already executed by someone.
 - Your provider is not suitable for this script.
 - The target you entered is not good or you are unlucky.
-
-##
-
-### Screenshot
-
-<!--![Results/Ok-24-July-2023.txt](https://github.com/RozhakXD/Facemash/blob/main/Data/Ok-24-July-2023.png) -->
-
-##
 
 ### Disclaimer!
 I hope you have familiarized yourself with the laws applicable in each country. As a developer, I cannot be held responsible for any consequences arising from your actions. Any errors or issues that may occur will be the sole responsibility of the script user.
