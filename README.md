@@ -9,11 +9,11 @@
 ### Installation
 
   ```
--apt update
--apt upgrade
--apt install git
--apt install python
--pip install requests bs4 mechanize
+apt update
+apt upgrade
+apt install git
+apt install python
+pip install requests bs4 mechanize
   ```
 
 ##
