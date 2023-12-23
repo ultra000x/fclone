@@ -1,7 +1,5 @@
 <h1><b>FACEBOOK TOOL</h1>
 
-<br>
-
 ### Description
 **fclone** is a python script designed to hack a random Facebook account that has an easy password. This script was released on 1st January 2024
 ##
