@@ -18,16 +18,16 @@ pip install requests bs4 mechanize
 
 ### Why No Results?
 
-- Target has a difficult password.
+- Targets has a difficult password.
 - You don't turn on **"Airplane Mode"** every 500 ids.
-- Your IP address is being blocked or spammed.
+- Your IP address has being blocked or spammed.
 - The Facebook system is having problems causing no crack results.
 
 ### I only get Checkpoints?
 
-- The target you entered has already executed by someone.
+- The target has already executed by someone.
+- The target is not good or you are unlucky.
 - Your provider is not suitable for this script.
-- The target you entered is not good or you are unlucky.
 
 ### Disclaimer!
 I hope you have familiarized yourself with the laws applicable in each country. As a developer, I cannot be held responsible for any consequences arising from your actions. Any errors or issues that may occur will be the sole responsibility of the script user.
