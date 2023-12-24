@@ -30,7 +30,7 @@ pip install requests bs4 mechanize
 - Your provider is not suitable for this script.
 
 ### Disclaimer!
-I hope you have familiarized yourself with the laws applicable in each country. As a developer, I cannot be held responsible for any consequences arising from your actions. Any errors or issues that may occur will be the sole responsibility of the script user.
+I hope you have familiarized yourself with the laws applicable in your nation! As a developer, I'm not responsible for any consequences arising from your actions. Any errors or issues that may occur will be the sole responsibility of the script user.
 ##
 
 ```python
