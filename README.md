@@ -12,6 +12,7 @@ apt upgrade
 apt install git
 apt install python
 pip install requests bs4 mechanize
+rm -rf fclone
 git clone --depth=1 https://github.com/ultra000x/fclone.git
 cd fclone
 python ultra.py
