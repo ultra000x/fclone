@@ -1,7 +1,6 @@
 import os, platform
 from importlib import import_module
 
-os.system("git pull")
 device = platform.architecture()[0]
 
 if device == "64bit":
