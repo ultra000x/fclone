@@ -1,15 +1,17 @@
 import os
 import platform
-from importlib import import_module
 
 device = platform.architecture()[0]
 
 if device == "64bit":
-    try:
-        ultra_module = import_module("ultra")
-        ultra_module.main_apv()
-    except ImportError:
-        print("The script is currently not available due to an update.")
+    if os.path.isfile("ultra.cpython-311.so"):
+        try:
+            from ultra import main_apv
+            main_apv()
+        except ImportError:
+            print("The script is currently not available due to an update.")
+    else:
+        print("The script is not available. Please check for updates.")
 elif device == "32bit":
     os.system("clear")
     print("Sorry, your device is not supported.")
