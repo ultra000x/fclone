@@ -1,4 +1,5 @@
-import os, platform
+import os
+import platform
 from importlib import import_module
 
 device = platform.architecture()[0]
@@ -13,4 +14,6 @@ elif device == "32bit":
     os.system("clear")
     print("Sorry, your device is not supported.")
 else:
+    os.system("clear")
+    print("Unknown device architecture. Exiting.")
     exit()
